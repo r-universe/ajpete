@@ -8,6 +8,3 @@
 [submodule "flam"]
 	path = flam
 	url = https://github.com/cran/flam
-[submodule "scalpel"]
-	path = scalpel
-	url = https://github.com/cran/scalpel
